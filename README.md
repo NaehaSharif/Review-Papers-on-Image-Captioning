@@ -1,6 +1,8 @@
 # Image-Captioning Survey Papers
 
+
 1) Automatic description generation from images: A survey of models, datasets, and evaluation measures 
+---------------------
 @article{bernardi2016automatic,
   title={Automatic description generation from images: A survey of models, datasets, and evaluation measures},
   author={Bernardi, Raffaella and Cakici, Ruket and Elliott, Desmond and Erdem, Aykut and Erdem, Erkut and Ikizler-Cinbis, Nazli and Keller, Frank and Muscat, Adrian and Plank, Barbara},
@@ -11,6 +13,7 @@
 }
 
 2)A survey on automatic image caption generation
+--------------
 @article{bai2018survey,
   title={A survey on automatic image caption generation},
   author={Bai, Shuang and An, Shan},
@@ -22,6 +25,7 @@
 }
 
 3)A Comprehensive Survey of Deep Learning for Image Captioning
+--------------------------------------------------------------
 @article{hossain2019comprehensive,
   title={A comprehensive survey of deep learning for image captioning},
   author={Hossain, MD and Sohel, Ferdous and Shiratuddin, Mohd Fairuz and Laga, Hamid},
@@ -34,6 +38,7 @@
 }
 
 4)Visual to Text: Survey of Image and Video Captioning
+-----------------------------------------------------
 @article{li2019visual,
   title={Visual to Text: Survey of Image and Video Captioning},
   author={Li, Sheng and Tao, Zhiqiang and Li, Kang and Fu, Yun},
