@@ -1,8 +1,10 @@
 # Image-Captioning Survey Papers
+-----------------------------------------------
+A quick glance at an image is sufficient for humans to describe the incredible amount of details and subtleties about its visual content. As easy and effortless it is for humans to perform this task, artificial intelligence is still struggling in its attempt to mimic this process. Here is a list of various survey papers published over the years, summarising the ongoing work on Image Captioning.
 
 
-1) Automatic description generation from images: A survey of models, datasets, and evaluation measures 
----------------------
+1)Automatic description generation from images: A survey of models, datasets, and evaluation measures 
+------------------------------------------------
 @article{bernardi2016automatic,
   title={Automatic description generation from images: A survey of models, datasets, and evaluation measures},
   author={Bernardi, Raffaella and Cakici, Ruket and Elliott, Desmond and Erdem, Aykut and Erdem, Erkut and Ikizler-Cinbis, Nazli and Keller, Frank and Muscat, Adrian and Plank, Barbara},
